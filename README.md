@@ -40,7 +40,7 @@
 🚀 **[Cloud Kitchen Web App](https://github.com/Hamzanaseer514/Cloud-Kitchen)** - A platform for home chefs to manage their cloud kitchens.  
 🛒 **[E-commerce Web App](https://github.com/Hamzanaseer514/Ecommerce-App)** - Full-featured online store with authentication & product management.   
 💬 **[Real-time Chat App](https://github.com/Hamzanaseer514/Chat-App)** - Live messaging app built with **Socket.IO**.  
-🎵 **[AudioAura - Music Streaming App](https://github.com/Hamzanaseer514/AudioAura)** - A web-based music streaming app with playlists, favorites, and real-time search.  
+🎵 **[AudioAura - Music Streaming App](https://github.com/Hamzanaseer514/AudioAura-)** - A web-based music streaming app with playlists, favorites, and real-time search.  
 
 ---
 
