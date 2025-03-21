@@ -28,22 +28,19 @@
 #### **🛢️ Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 #### **⚙️ Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ### 🔥 **Featured Projects**
 🚀 **[Cloud Kitchen Web App](https://github.com/Hamzanaseer514/Cloud-Kitchen)** - A platform for home chefs to manage their cloud kitchens.  
-🛒 **[E-commerce Web App](https://github.com/Hamzanaseer514/Ecommerce-App)** - Full-featured online store with authentication & product management.  
-🏠 **[House Booking System](https://github.com/Hamzanaseer514/House-Booking)** - A property rental platform with real-time booking.  
-🍽️ **[Restaurant Management System](https://github.com/Hamzanaseer514/Restaurant-Management)** - MERN-based restaurant operations system.  
+🛒 **[E-commerce Web App](https://github.com/Hamzanaseer514/Ecommerce-App)** - Full-featured online store with authentication & product management.   
 💬 **[Real-time Chat App](https://github.com/Hamzanaseer514/Chat-App)** - Live messaging app built with **Socket.IO**.  
+🎵 **[AudioAura - Music Streaming App](https://github.com/Hamzanaseer514/AudioAura)** - A web-based music streaming app with playlists, favorites, and real-time search.  
 
 ---
 
